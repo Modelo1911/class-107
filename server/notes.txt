@@ -1,0 +1,17 @@
+1. install virtualenv
+py or python3/python/py3(py -m pip install virtualenv)
+
+2. create the virtualenv
+(py -m venv venv)
+
+3. Activate the venv
+MAC 
+source venv/bin/activate
+Windows
+venv\Scripts\Activate
+
+4. Install flask
+py -m pip install flask
+
+--Application programming Interface, the connection between the client (me) and the server (google)
+ 
