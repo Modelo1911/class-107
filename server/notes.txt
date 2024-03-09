@@ -13,5 +13,5 @@ venv\Scripts\Activate
 4. Install flask
 py -m pip install flask
 
---Application programming Interface, the connection between the client (me) and the server (google)
+--Application programming Interface(API), the connection between the client (me) and the server (google, amazon)
  
