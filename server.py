@@ -9,7 +9,7 @@ def home():
 
 @app.get("/testing")
 def test():
-    return "hello from a diffrent page"
+    return "hello from a diffrent page" 
 
 @app.get("/about")
 def about():
