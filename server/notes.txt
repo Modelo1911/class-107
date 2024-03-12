@@ -14,4 +14,8 @@ venv\Scripts\Activate
 py -m pip install flask
 
 --Application programming Interface(API), the connection between the client (me) and the server (google, amazon)
- 
+
+# for establising connection to mongoDB. Both of these should be placed 
+py -m pip install "pymongo[srv]"
+py -m pip install "pymongo[srv]" certifi
+# incase my computer shuts off 
